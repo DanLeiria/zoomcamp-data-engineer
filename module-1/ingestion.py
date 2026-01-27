@@ -1,5 +1,4 @@
 import click
-import pandas as pd
 import pyarrow.parquet as pq
 from sqlalchemy import create_engine
 from tqdm.auto import tqdm
